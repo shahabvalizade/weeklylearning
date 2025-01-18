@@ -1,3 +1,9 @@
+## What is Cassandra
+* NoSQL databse
+* peer-to-peer architecture (There is no Master node)
+* No Join / No Transaction Therefore:
+  * Denormalization of data required duing design
+
 ## Install on system level
 Steps:
 > sudo apt-get install openjdk-11-jdk
